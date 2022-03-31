@@ -39,5 +39,4 @@ public class training01 {
 		//　「１：大吉 ２；中吉 ３：吉 ４：凶」と表示
 		System.out.println("１:大吉 ２:中吉 ３:吉 ４:凶");
 	}
-
 }
